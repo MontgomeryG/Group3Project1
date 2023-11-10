@@ -63,7 +63,11 @@ MY ideas for potential flow of project:
 3- Our more detailed questions are: 
     How does location affect price movement of SnP? Categorize location by POPULATION and INCOME PER CAPITA.
     Does the Bitcoin Fear/Greed index show any potential correlation with SnP500 returns? What about SnP500 fear/greed?
-
+4- Let's visualize the data with tables and graphs
+5- What data are we starting with? How did we access it? How was it cleaned? Any problems that we couldn't fix? Will those problems affect our analysis?
+6- Why did we choose to show this visualization of the data? Why these variables?
+7- **PUT ONE GRAPH PER SLIDE or two or three that are very similar**
+8- 
 
 Visualization ideas:
 - returns over 2022
@@ -86,5 +90,5 @@ List of problems that we encountered?
     We had an open discussion about it and from there we picked a direction from the project.
     After that night, we slept on it, and the next day we ensured we all had the same version and then we created a geoplot together.
     Through the creation of that geoplot and getting everything situated with gitHub, I think we all gelled together more forcefully than we had in the previous interactions.
-    It seemed that once we had some visualizations that showed a potential correlation, we all gained a bit more confidence in the direction of our project.
+    It seemed that once we had some visualizations that showed a potential correlation, we all gained a bit more confidence in the direction of our project.e
     Other discussions surrounding our personal investments also helped to strenghten our team.
