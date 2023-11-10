@@ -1,0 +1,32 @@
+Read through what team did and make sure you fully understand it.
+Read through the example and start generating ideas for each section of the presentation.
+Start creating visuals based on above ideas.
+Re-Think this list.
+
+
+
+
+IDEAS:
+
+DataCleaning
+- Alex add more comments to the data cleaning, I have no idea what is going on.
+- It looks like you are splitting the city and state... so why did we have to redo this in the geoplotting?
+- In cell 12, I thought we were supposed to see the city split?
+- The function to check for nans and fill them with population data is very readable. Comments make it clean.
+- Now I see that we have 51 nulls in our population data... We'll have to determine if that affects our analysis but I don't think it will.
+        I don't think it will because the S&P 500 companies are likely in cities with well recorded population statistics.
+
+- Could you explain why we are creating another CSV with the nans removed?
+
+
+fear_greed
+- What is this API?
+- Comments are easy to follow, clean flow.
+- Maybe we can break it up?
+- Breaking each piece up and showing the result makes it easy for me to follow, someone who didn't initially code it. However, is that necessary?
+- What is the 'value' column and why are we dividing it by 100?
+- Graph looks good. Don't we just want data for 2022?
+- DATA ANALYSIS: 
+    - Plot bitcoin fear/greed versus SnP returns?
+    - Can we get the snp fear/greed easily to see those against SnP returns as well?
+    - Other ideas for analysis?
