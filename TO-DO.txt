@@ -30,3 +30,23 @@ fear_greed
     - Plot bitcoin fear/greed versus SnP returns?
     - Can we get the snp fear/greed easily to see those against SnP returns as well?
     - Other ideas for analysis?
+
+snp500_pop_visualization
+- So we are graphing each by sector... ok
+- Creating a function is a nice idea. Makes the loop very easy.
+    Maybe you could explain it a bit more? I need to work on my function creating.
+    I understand all the plotting... except for the plt.bar(sector_data['security'])...
+- Let's try to make the plot more readable... Maybe 45 degree rotation on x-axis.. I see that doing so looks bad initially...
+    maybe we can do some resizing to clean it up.
+- I like the exponential notaion for the Y.
+- Oh I see by the title of the first plots, we are taking all companies in one sector, so the first one is "Industrials Sector".
+    Then we are saying "what's the population of the city where that company HQ is located", and plotting that against the company. Niceeee.
+- Ok, this is cool, but this amount of graphs seems extensive.
+- Maybe we can keep a few of these... maybe pick out the most interesting sectors in our opinion...
+    Then we can make a plot that shows the population given sector? 
+    My predictions is that the tech/financial sectors will be located in the highest populated cities
+- Next plot would be to combine this data with SnP500 returns to see if location (categorized by population) has an effect on returns...
+    LET ME GET ON GENERATING THOSE DAILY PERCENT RETURNS...
+
+
+geoplot_notebook
