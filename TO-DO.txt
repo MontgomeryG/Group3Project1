@@ -49,4 +49,42 @@ snp500_pop_visualization
     LET ME GET ON GENERATING THOSE DAILY PERCENT RETURNS...
 
 
-geoplot_notebook
+READING THROUGH EXAMPLE
+- What's our goal of this assignment?
+- What's our purpose?
+- Introduction: One paragraph explaining question and what our analysis seeks to do.
+- 
+
+
+MY ideas for potential flow of project:
+1- 2022 was a volatile year for stocks... We want to use that year and the SnP 500 to do some data anlysis.
+2- The overall question we want answered: What are some things that can affect returns of the SnP? 
+    "Things"(variables) that do not offer a clear potential relationship at first thought.
+3- Our more detailed questions are: 
+    How does location affect price movement of SnP? Categorize location by POPULATION and INCOME PER CAPITA.
+    Does the Bitcoin Fear/Greed index show any potential correlation with SnP500 returns? What about SnP500 fear/greed?
+
+
+Visualization ideas:
+- returns over 2022
+- add volume
+- add VWAP
+- Plot returns of a particular sector over 2022
+
+
+Analysis to note:
+- uptrending sectors? down trending?
+
+
+List of problems that we encountered?
+- One geo API only allowed for like 200 calls or something... we found a work-around by creating out own dataset containing US city coordinates
+- We had trouble picking exactly what we wanted to focus on. From sentiment analysis to geoplotting, to placing trades based on indicators like volume and news releases...
+    Once we got some help with narrowing down our focus, our project went much quicker... something that Alex alluded to multiple times.
+- snp500 df creation needed some "fancy" work with indexing and sorting, which I feel could have been done in a more efficient way. Something to revisit for the project update.
+- Big thanks to Jennifer for helping us narrow our focus, and create a step-by-step plan.
+- At one point, as a team all of us were not on the same page about the type of analysis we are doing. 
+    We had an open discussion about it and from there we picked a direction from the project.
+    After that night, we slept on it, and the next day we ensured we all had the same version and then we created a geoplot together.
+    Through the creation of that geoplot and getting everything situated with gitHub, I think we all gelled together more forcefully than we had in the previous interactions.
+    It seemed that once we had some visualizations that showed a potential correlation, we all gained a bit more confidence in the direction of our project.
+    Other discussions surrounding our personal investments also helped to strenghten our team.
