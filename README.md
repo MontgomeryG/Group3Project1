@@ -32,8 +32,9 @@ Additionally, we investigated into influences of external economic indicators, s
 Our project's strength was showcased through interactive visualizations that tracked daily percentage changes and closing prices, revealing detailed patterns in the market's behavior throughout 2022. These visualaztions not only demonstrated market's volatility but also highlighted our capability to discern subtle, yet insightful trends within S&P 500's financial data.  
 
 ### Key Visualizations
-- Geoplots showing population versus stock returns.
-<img src="../Group3Project1/image.png" alt="Magnitude of Returns Geoplot" width="300"/>
-- Bar charts comparing companies metrics within sectors.
-<img src="../Group3Project1/BarCharts" alt="Example of Bar Chart subset by sector" width="300"/>
-- S&P 500 and Bitcoin Fear&Greed Index Charted plot and Correlation Heat Map.
+- Geoplots showing population versus stock returns.  
+![Magnitude of Returns Geoplot](../Group3Project1/Magnitude_of_returns_geo.png)
+- Bar charts comparing companies metrics within sectors.  
+![Example Bar Chart subset by utilities sector](../Group3Project1/BarChartsForS&P500Sectors/Sector_analysis_for_Utilities.png)
+- S&P 500 and Bitcoin Fear&Greed Index Charted plot and Correlation Heat Map.  
+![Bitcoin Fear&Greed Plotted with S&P500 data](../Group3Project1/S&P500_BTC_Greed_plot.png)
