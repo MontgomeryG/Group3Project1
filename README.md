@@ -33,8 +33,8 @@ Our project's strength was showcased through interactive visualizations that tra
 
 ### Key Visualizations
 - Geoplots showing population versus stock returns.  
-![Magnitude of Returns Geoplot](../Group3Project1/Magnitude_of_returns_geo.png)
+![Magnitude of Returns Geoplot](/Group3Project1/Magnitude_of_returns_geo.png)
 - Bar charts comparing companies metrics within sectors.  
-![Example Bar Chart subset by utilities sector](../Group3Project1/BarChartsForS&P500Sectors/Sector_analysis_for_Utilities.png)
+![Example Bar Chart subset by utilities sector](/Group3Project1/BarChartsForS&P500Sectors/Sector_analysis_for_Utilities.png)
 - S&P 500 and Bitcoin Fear&Greed Index Charted plot and Correlation Heat Map.  
-![Bitcoin Fear&Greed Plotted with S&P500 data](../Group3Project1/S&P500_BTC_Greed_plot.png)
+![Bitcoin Fear&Greed Plotted with S&P500 data](/Group3Project1/S&P500_BTC_Greed_plot.png)
