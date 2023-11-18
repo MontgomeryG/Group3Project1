@@ -1,7 +1,7 @@
 # What are some things that can affect returns of the S&P 500?
 
 ## Overview
-In This project we dove into the dynamics that can influence returns of the S&P 500, particularly in the context of the volatile year of 2022.
+In this project we dove into the dynamics that can influence returns of the S&P 500, particularly in the context of the volatile year of 2022.
 We focused on a diverse range of factors, including company locations, market capitalization, population density, the Fear & Greed index, and overall stock performance metrics. 
 Utilizing Python for sophisticated data analysis and visualization, we used Alpaca API to track and analyze these variables.
 Our aim was to uncover potential correlations and patterns that could shed light on the factors driving stock market returns in one of the world's most watched indices.
@@ -20,7 +20,8 @@ To set up the project environment:
 ```SSH: git@github.com:MontgomeryG/Group3Project1.git```
 
 2. Install required dependencies:  
-Run in Terminal ```pip install pandas matplotlib hvplot python-dotenv alpaca-trade-api requests```
+Run in Terminal  
+```pip install pandas matplotlib hvplot python-dotenv alpaca-trade-api requests```
 
 ## Data Analysis and Visualization
 In our project, we dove into the factors that may sway the S&P 500's performance during the 2022 market.  
@@ -32,5 +33,7 @@ Our project's strength was showcased through interactive visualizations that tra
 
 ### Key Visualizations
 - Geoplots showing population versus stock returns.
+<img src="../Group3Project1/image.png" alt="Magnitude of Returns Geoplot" width="300"/>
 - Bar charts comparing companies metrics within sectors.
+<img src="../Group3Project1/BarCharts" alt="Example of Bar Chart subset by sector" width="300"/>
 - S&P 500 and Bitcoin Fear&Greed Index Charted plot and Correlation Heat Map.
